@@ -1,6 +1,6 @@
 # InterviewReady - Interview Readiness Assessment Tool
 
-![InterviewReady Banner](https://img.shields.io/badge/Interview-Ready-purple?style=for-the-badge&logo=checkmarx&logoColor=white)
+## DEMO VIDEO:- https://drive.google.com/file/d/1FqAANmc9hU5LbVoWc4H2YbtvRadz76RV/view?usp=sharing
 
 A fast, intuitive assessment tool that evaluates interview preparedness and provides personalized improvement plans in under 2 minutes.
 
@@ -86,67 +86,7 @@ Students and job seekers often struggle to objectively assess their interview re
 - **Vite** - Build tool
 - **Tailwind CSS 4** - Styling
 - **Single File Build** - Easy deployment
-
-## 📦 Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/interview-ready.git
-
-# Navigate to project directory
-cd interview-ready
-
-# Install dependencies
-npm install
-
-# Start development server
-npm run dev
-
-# Build for production
-npm run build
-```
-
-## 🎬 Demo
-
-The tool guides users through 4 quick sections:
-
-1. **Technical Skills Assessment**
-   - Multi-select programming languages
-   - Multi-select frameworks/libraries
-   - Slider for DSA proficiency
-   - Slider for System Design knowledge
-
-2. **Resume Evaluation**
-   - Toggle for resume existence
-   - Quality slider
-   - Checklist for best practices
-
-3. **Communication Check**
-   - Confidence level slider
-   - Toggles for preparation status
-
-4. **Portfolio Review**
-   - Online presence checklist
-   - Project count selector
-
-## 📊 Sample Output
-
-```
-📊 Interview Readiness Score: 67/100
-🎯 Status: Almost Ready
-⏱️ Time to Ready: 2-4 weeks of focused preparation
-
-💪 Strengths:
-✓ Proficient in 3 programming languages
-✓ Experience with 4 frameworks
-✓ Professional LinkedIn presence
-
-🎯 Gaps to Address:
-! DSA needs strengthening
-! No prepared behavioral stories
-! Low GitHub activity
-```
-
+- 
 ## 🏗️ Architecture
 
 ```
@@ -168,25 +108,3 @@ src/
 3. **Progressive Disclosure** - Details available on demand
 4. **Encouraging Tone** - Focus on growth, not criticism
 5. **Actionable Output** - Every gap comes with a solution
-
-## 🔮 Future Enhancements
-
-- [ ] Save results to local storage
-- [ ] Generate PDF report
-- [ ] Email results
-- [ ] Track progress over time
-- [ ] Role-specific assessments (Frontend, Backend, Data Science)
-- [ ] Integration with GitHub API for automatic analysis
-- [ ] AI-powered resume analysis
-
-## 📝 License
-
-MIT License - feel free to use and modify for your needs.
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
----
-
-Built with ❤️ for students preparing for their dream interviews 🚀
